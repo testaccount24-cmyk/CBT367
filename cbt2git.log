@@ -1,0 +1,5 @@
+2025-04-04 08:35:25.726176 - Received CBT.V508.FILE367.PDS from FILE367.XMI 
+2025-04-04 08:35:25.726858 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE367.PDS, moved to PDS/$$$#DATE
+2025-04-04 08:35:25.727014 - Found @FILE367.txt (text/plain) in CBT.V508.FILE367.PDS, moved to PDS/@FILE367
+2025-04-04 08:35:25.727173 - Found ASCBS.rexx (text/plain) in CBT.V508.FILE367.PDS, moved to PDS/ASCBS
+2025-04-04 08:35:25.727302 - Found TSURXS.rexx (text/plain) in CBT.V508.FILE367.PDS, moved to PDS/TSURXS
